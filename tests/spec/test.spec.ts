@@ -1,0 +1,1 @@
+console.log("Running tests from tests/spec/test.spec.ts");
